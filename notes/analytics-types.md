@@ -1,0 +1,22 @@
+# 📊 Four Types of Data Analytics
+
+## 1. Descriptive Analytics
+**Question:** "What happened?"
+**Focus:** Historical data analysis
+**Tools:** Reports, dashboards
+**Example:** Monthly sales summary
+
+## 2. Diagnostic Analytics  
+**Question:** "Why did it happen?"
+**Focus:** Root cause analysis
+**Example:** Why sales dropped last quarter
+
+## 3. Predictive Analytics
+**Question:** "What might happen?"
+**Focus:** Future forecasting
+**Example:** Sales prediction for next quarter
+
+## 4. Prescriptive Analytics
+**Question:** "What should we do?"
+**Focus:** Action recommendations
+**Example:** Optimal pricing strategy
