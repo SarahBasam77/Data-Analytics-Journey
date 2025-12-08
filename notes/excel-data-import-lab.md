@@ -18,13 +18,12 @@
 ### Part 1: Basic Excel Formulas
 
 #### Key Concepts
-- Formulas begin with `=` sign
-- Can be typed directly in cells or formula bar
-- Basic operations: `+`, `-`, `*`, `/`
+## - Formulas begin with `=` sign Can be typed directly in cells or formula bar
+## - Basic operations: `+`, `-`, `*`, `/`
 
 #### Exercises Completed
-1. Created simple calculations:
-   - `=1+1` in cell A1
+## 1. Created simple calculations:
+## `=1+1` in cell A1
    - `=4-2` in cell A2
    - `=2*4` in cell A3
    - `=6/2` in cell A4
