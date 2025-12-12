@@ -134,24 +134,24 @@ Records of transactions can be stored in many different formats, depending on th
 ### UnstructuredData RawData, NoSchema
 **Core Definition**
 - Unstructured Data: Raw data without a predefined organization or schema
-- Not organized in a fixed format, making analysis challenging #AnalysisChallenge
-- **Examples:** Photos, audio, video, web pages, blogs, PDFs, emails, social media content #DataExamples
+- Not organized in a fixed format, making analysis challenging 
+- **Examples:** Photos, audio, video, web pages, blogs, PDFs, emails, social media content 
 
 ---
 
 # ExamplesOfUnstructuredData
-- Photos/images #VisualData
-- Audio files #AudioData
-- Video content #VideoData
-- Web pages & blogs #WebContent
-- Books/journals/white papers #Documents
-- PowerPoint presentations #Presentations
-- Emails #EmailData
-- Wikis & word processing docs #CollaborativeDocs
-- PDF documents #PDFs
-- Social media content (YouTube, Facebook, Twitter) #SocialMediaData
-- RSS feeds #Feeds
-- Traffic camera feeds #IoTData #SensorData
+- Photos/images 
+- Audio files 
+- Video content 
+- Web pages & blogs 
+- Books/journals/white papers 
+- PowerPoint presentations 
+- Emails 
+- Wikis & word processing docs 
+- PDF documents 
+- Social media content (YouTube, Facebook, Twitter) 
+- RSS feeds 
+- Traffic camera feeds  
 
 ---
 
@@ -162,33 +162,33 @@ Records of transactions can be stored in many different formats, depending on th
 - Ideal for real-time data storage #RealTimeData
 
 ### 2. Web Scraping
-- Automated extraction from HTML pages #Automation
-- Uses bots/crawlers to gather specific data #DataCrawlers
-- Converts web data to databases/spreadsheets for analysis #DataConversion
+- Automated extraction from HTML pages 
+- Uses bots/crawlers to gather specific data 
+- Converts web data to databases/spreadsheets for analysis 
 
 ### 3. APIs (Application Program Interfaces)
-- RESTful APIs using HTTP & JSON #RESTAPI #JSON
-- Standardized interfaces from large providers (Facebook, Google, Twitter) #StandardizedAPI
-- Access subsets of large, constantly generated data #DataAccess
+- RESTful APIs using HTTP & JSON  
+- Standardized interfaces from large providers (Facebook, Google, Twitter) 
+- Access subsets of large, constantly generated data 
 
 ---
 
-# ETL #ELT #DataPipeline
+# ETL & #ELT :
 **ETL (Extract, Transform, Load)**
-- **Extract:** Gather data from various sources (relational DBs, NoSQL, flat files, XML) #DataExtraction
-- **Transform:** Prepare data before loading (convert formats, join, aggregate, clean data) #DataTransformation #DataCleaning
-- **Load:** Load transformed data into database (apply schema rules, ensure data integrity) #DataLoading #DataIntegrity
+- **Extract:** Gather data from various sources (relational DBs, NoSQL, flat files, XML) 
+- **Transform:** Prepare data before loading (convert formats, join, aggregate, clean data) 
+- **Load:** Load transformed data into database (apply schema rules, ensure data integrity) 
 
 **ELT (Extract, Load, Transform)**
-- Load raw data first, transform later #RawFirst
-- Used primarily for large unstructured datasets #BigData
-- Transformation occurs during usage #OnDemandTransformation
+- Load raw data first, transform later 
+- Used primarily for large unstructured datasets 
+- Transformation occurs during usage 
 
 ---
 
-# KeyInsights #DataManagement 
-- Both structured & unstructured data are valuable #DataValue
-- Organizations must format all data types for management & analysis #DataFormatting
-- Transformation ensures data consistency & query success #DataConsistency
-- Data lakes store real-time data in original formats #DataLakes
-- APIs enable access to massive social media datasets #APIAccess
+# KeyInsights  
+- Both structured & unstructured data are valuable 
+- Organizations must format all data types for management & analysis 
+- Transformation ensures data consistency & query success 
+- Data lakes store real-time data in original formats 
+- APIs enable access to massive social media datasets 
