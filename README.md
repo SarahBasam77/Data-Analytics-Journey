@@ -1,10 +1,9 @@
 # Data-Analytics-Journey
 
-## 📚 Learning Resources
+## 📚 Learning Notes
 
-### Excel
-- **[Complete Learning Notes](/notes/)** - Comprehensive guide including:
-  - ✅ Excel formulas and functions and data cleaning
+- **[Learning Notes guide](/notes/)**:
   - ✅ Modules Summaries
-  - ✅ **Quick Reference Cheatsheet** (inside the same file)
   - ✅ Exercises and examples
+  - ✅ Excel formulas, functions and data cleaning
+  - ✅ **Quick Reference Cheatsheet** (inside the same file)
