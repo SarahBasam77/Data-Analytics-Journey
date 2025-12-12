@@ -131,7 +131,7 @@ Records of transactions can be stored in many different formats, depending on th
 
 ---
 
-#UnstructuredData #RawData #NoSchema
+### UnstructuredData RawData, NoSchema
 **Core Definition**
 - Unstructured Data: Raw data without a predefined organization or schema
 - Not organized in a fixed format, making analysis challenging #AnalysisChallenge
@@ -139,7 +139,7 @@ Records of transactions can be stored in many different formats, depending on th
 
 ---
 
-#ExamplesOfUnstructuredData
+# ExamplesOfUnstructuredData
 - Photos/images #VisualData
 - Audio files #AudioData
 - Video content #VideoData
@@ -155,7 +155,7 @@ Records of transactions can be stored in many different formats, depending on th
 
 ---
 
-#ProcessingMethods #DataProcessing
+# ProcessingMethods #DataProcessing
 ### 1. NoSQL Databases & Data Lakes
 - Store raw data in original format #RawStorage
 - Centralized repositories for IoT, web, mobile, social media data #CentralizedRepo
@@ -173,7 +173,7 @@ Records of transactions can be stored in many different formats, depending on th
 
 ---
 
-#ETL #ELT #DataPipeline
+# ETL #ELT #DataPipeline
 **ETL (Extract, Transform, Load)**
 - **Extract:** Gather data from various sources (relational DBs, NoSQL, flat files, XML) #DataExtraction
 - **Transform:** Prepare data before loading (convert formats, join, aggregate, clean data) #DataTransformation #DataCleaning
@@ -186,7 +186,7 @@ Records of transactions can be stored in many different formats, depending on th
 
 ---
 
-#KeyInsights #DataManagement 
+# KeyInsights #DataManagement 
 - Both structured & unstructured data are valuable #DataValue
 - Organizations must format all data types for management & analysis #DataFormatting
 - Transformation ensures data consistency & query success #DataConsistency
