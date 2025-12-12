@@ -1,10 +1,10 @@
-# Data-Analytics
+# Data-Analytics-Journey
 
 ## 📚 Learning Resources
 
 ### Excel
-- **[Complete Excel Lab Notes](/notes/excel-data-import-lab.md)** - Comprehensive guide including:
-  - ✅ Basic Excel formulas and functions
-  - ✅ Data import techniques (CSV, delimiters)
+- **[Complete Learning Notes](/notes/)** - Comprehensive guide including:
+  - ✅ Excel formulas and functions and data cleaning
+  - ✅ Modules Summaries
   - ✅ **Quick Reference Cheatsheet** (inside the same file)
-  - ✅ Practical exercises and examples
+  - ✅ Exercises and examples
