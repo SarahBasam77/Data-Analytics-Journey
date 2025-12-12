@@ -123,11 +123,11 @@ Sensor output is usually collected in a standardized format, which may vary by m
 Records of transactions can be stored in many different formats, depending on the type of transaction and its source. Some transactions are entered manually into forms, while others can be machine generated.
 
 ## Selecting Relevant Data
-**Core Concept:** Choosing the right data is critical to answering your business question. #DataSelection #Relevance #CoreConcept
+**Core Concept:** Choosing the right data is critical to answering your business question.   
 
 ### Key Principles
-- **Focus on Relevance:** Only use data directly related to your analysis. #Focus #RelevantData
-- **Benchmarking:** Compare against industry standards or past performance. #Benchmarking #Comparison
+- **Focus on Relevance:** Only use data directly related to your analysis. 
+- **Benchmarking:** Compare against industry standards or past performance. 
 
 ---
 
@@ -155,11 +155,11 @@ Records of transactions can be stored in many different formats, depending on th
 
 ---
 
-# ProcessingMethods #DataProcessing
+# ProcessingMethods
 ### 1. NoSQL Databases & Data Lakes
-- Store raw data in original format #RawStorage
-- Centralized repositories for IoT, web, mobile, social media data #CentralizedRepo
-- Ideal for real-time data storage #RealTimeData
+- Store raw data in original format 
+- Centralized repositories for IoT, web, mobile, social media data 
+- Ideal for real-time data storage 
 
 ### 2. Web Scraping
 - Automated extraction from HTML pages 
