@@ -186,7 +186,7 @@ Records of transactions can be stored in many different formats, depending on th
 
 ---
 
-# KeyInsights  
+# Key Insights  
 - Both structured & unstructured data are valuable 
 - Organizations must format all data types for management & analysis 
 - Transformation ensures data consistency & query success 
