@@ -1,4 +1,4 @@
-# 🔄 Data Analysis Process & Types
+# Data Analysis Process & Types
 
 ## 6 Steps:
 1. **Ask Questions** - Define the problem
@@ -8,7 +8,7 @@
 5. **Visualize** - Create charts and graphs
 6. **Present** - Share findings and recommendations
 
-# 📊 Four Types of Data Analytics
+# Four Types of Data Analytics
 
 ## 1. Descriptive Analytics
 **Question:** "What happened?"
