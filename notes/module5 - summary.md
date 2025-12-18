@@ -37,3 +37,23 @@
 - Limit pie chart segments to ≤10
 - Use scatter plots for outlier detection
 - Always label charts clearly
+
+# VLOOKUP:
+is a powerful Excel function for finding and retrieving data from large tables. It searches the leftmost column of a table for a specified value and returns information from the same row in another column.
+
+## Key Details
+- Stands for "vertical lookup"
+- Requires 4 arguments: lookup value, table range, return column number, and match type (exact=FALSE, approximate=TRUE)
+- Searches only the first column of the specified range
+- Defaults to approximate match unless FALSE is specified
+
+## Common Uses:
+1. Finding specific data - Like retrieving a movie's budget when given its title
+2. Data cleaning - Identifying duplicates between two lists/columns
+
+# Comparison with XLOOKUP:
+XLOOKUP is newer, searches any column (not just the leftmost), and defaults to exact matches
+XLOOKUP is not backward compatible with older Excel versions
+
+## Advanced Tip:
+Combine with IF and ISNA functions to display custom messages (like "Duplicate"/"Unique") instead of error codes.
