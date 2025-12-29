@@ -7,3 +7,7 @@
   - ✅ Exercises and examples
   - ✅ Excel formulas, functions and data cleaning
   - ✅ **Quick Reference Cheatsheet** (inside the same file)
+
+
+  ## 📊 Projects
+  Soon...
